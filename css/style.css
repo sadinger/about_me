@@ -1,8 +1,9 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  background-color: #FCFAE2; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  /*font-family: Georgia, serif;*/
 }
 
 article {
@@ -12,7 +13,8 @@ article {
 
 h1 {
   text-align: center; 
-  font-size: 48px; 
+  font-size: 48px;
+  color: #79051F;
 }
 
 h2 {
